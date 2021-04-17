@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rolliad
-- 👀 I’m interested in ...Data Science, Python, SQL
-- 🌱 I’m currently learning ...Python and SQL
+- 👀 I’m interested in learning to be a Full-stack Engineer, Python, SQL, JavaScript, C#
+- 🌱 I’m currently learning ...Python, JavaScript, React and SQL
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ...emma.ruyle@gmail.com
